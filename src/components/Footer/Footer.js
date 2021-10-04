@@ -60,7 +60,7 @@ const Footer = () => {
                 </div>
 
                 <p className="mt-5">
-                  <small>Ilhan Khondaker © . All rights reserved.</small>
+                  <small>Showkat Imran © . All rights reserved.</small>
                 </p>
               </div>
             </div>
